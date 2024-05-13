@@ -1,0 +1,18 @@
+h1 {
+    color: black; /* Başlık metninin rengini ayarlar */
+    font-size: 24px; /* Başlık metninin font büyüklüğünü */
+    padding: 5px; /* Başlığın içeriğinin kenarlarından boşluk bırakır */
+    border: 3px solid black; /* Başlığın çevresine siyah renkli, 3 piksel kalınlığında bir çerçeve ekler */
+    background-color: yellow; /* Başlık arkaplan rengini ayarlar*/
+    text-align: center;  /* Başlık metnini ortalar */
+}
+
+h2 {
+    color: blue; 
+    font-size: 20px; 
+}
+
+h3 {
+    color: purple; 
+    font-size: 15px; 
+}
